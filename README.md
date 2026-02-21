@@ -1,5 +1,5 @@
 # Projet Métaheuristiques TSP
-**Université Hassan II – ENSET Mohammedia | Masters SDIA** *UE : Optimisation / Métaheuristiques — Prof. MESTARI — A.U. 25-26*
+**Université Hassan II – ENSET Mohammedia | Master SDIA** *UE : Optimisation / Métaheuristiques — Prof. MESTARI — A.U. 25-26*
 
 ---
 
